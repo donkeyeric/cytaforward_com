@@ -1,0 +1,111 @@
+INPUT {
+	BORDER-RIGHT: #dcdcdc 1px solid; BORDER-TOP: #727272 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #959595 1px solid; BORDER-BOTTOM: #dcdcdc 1px solid; FONT-FAMILY: Arial,Verdana,  Helvetica, sans-serif; HEIGHT: 20px
+}
+BODY {
+	MARGIN: 0px
+}
+.moreinfo {
+	FONT-SIZE: 12px; FLOAT: right; COLOR: #000000; MARGIN-RIGHT: 10px; PADDING-TOP: 5px; FONT-FAMILY:  Arial,Verdana, Helvetica, sans-serif; HEIGHT: 25px; TEXT-DECORATION: none
+}
+BODY {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY:  Arial,Verdana, Helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY:  Arial,Verdana, Helvetica, sans-serif
+}
+TH {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial,Verdana,  Helvetica, sans-serif
+}
+#bg1 {
+	BACKGROUND-POSITION: 0px 104px; BACKGROUND-IMAGE: url("xjmw/10.gif")/*tpa=http://www.aaaforward.com/xjmw/10.gif*/; BACKGROUND-REPEAT: repeat-x
+}
+#bg2 {
+	BACKGROUND-POSITION: 0px 150px; BACKGROUND-IMAGE: url("xjmw/17.gif")/*tpa=http://www.aaaforward.com/xjmw/17.gif*/; BACKGROUND-REPEAT: repeat-x
+}
+#kind {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND-IMAGE: url("xjmw/21.gif")/*tpa=http://www.aaaforward.com/xjmw/21.gif*/; WIDTH: 230px; COLOR: #000000; TEXT-INDENT: 35px; PADDING-TOP: 6px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 27px; TEXT-DECORATION: none
+}
+#tel {
+	PADDING-BOTTOM: 8px; WORD-SPACING: 10px; TEXT-INDENT: 20px; PADDING-TOP: 5px; HEIGHT: 15px
+}
+#msn {
+	PADDING-LEFT: 20px; PADDING-TOP: 5px; HEIGHT: 20px
+}
+#kindbg {
+	BACKGROUND-IMAGE: url("xjmw/70.gif")/*tpa=http://www.aaaforward.com/xjmw/70.gif*/; BACKGROUND-REPEAT: repeat-y
+}
+#bg3 {
+	BACKGROUND-POSITION: right 50%; BACKGROUND-IMAGE: url("xjmw/20.gif")/*tpa=http://www.aaaforward.com/xjmw/20.gif*/; WIDTH: 12px; BACKGROUND-REPEAT: repeat-y
+}
+.bt_track {
+	BORDER-RIGHT: 0px; BACKGROUND-POSITION: left top; BORDER-TOP: 0px; BACKGROUND-IMAGE: url("xjmw/68.gif")/*tpa=http://www.aaaforward.com/xjmw/68.gif*/; BORDER-LEFT: 0px; WIDTH: 90px; COLOR: #000000; TEXT-INDENT: 10px; PADDING-TOP: 2px; BORDER-BOTTOM: 0px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 24px; TEXT-DECORATION: none
+}
+.f14b {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000000; TEXT-INDENT: 5px; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.f14White {
+	FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: Arial, Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+#about {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 15px; WIDTH: 220px; LINE-HEIGHT: 24px; PADDING-TOP: 5px
+}
+#map {
+	MARGIN-TOP: -156px; MARGIN-LEFT: 220px
+}
+.bt_track2 {
+	BORDER-RIGHT: 0px; BACKGROUND-POSITION: left top; BORDER-TOP: 0px; BACKGROUND-IMAGE: url("xjmw/46.gif")/*tpa=http://www.aaaforward.com/xjmw/46.gif*/; BORDER-LEFT: 0px; WIDTH: 90px; COLOR: #ffffff; TEXT-INDENT: 10px; PADDING-TOP: 2px; BORDER-BOTTOM: 0px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 24px; TEXT-DECORATION: none
+}
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+#bg5 {
+	BORDER-RIGHT: #ffffff 2px solid; BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url("xjmw/16.gif")/*tpa=http://www.aaaforward.com/xjmw/16.gif*/; BORDER-TOP-STYLE: none; BACKGROUND-REPEAT: repeat-x; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#bg4 {
+	BACKGROUND-POSITION: right bottom; MARGIN-TOP: 0px; BACKGROUND-IMAGE: url("xjmw/79.gif")/*tpa=http://www.aaaforward.com/xjmw/79.gif*/; MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px; BACKGROUND-REPEAT: no-repeat
+}
+#L20px {
+	TEXT-INDENT: 20px
+}
+A:visited {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A:active {
+	TEXT-DECORATION: none
+}
+.f12line {
+	COLOR: #000000; TEXT-INDENT: 20px; LINE-HEIGHT: 28px; TEXT-DECORATION: underline
+}
+A.f12line:visited {
+	COLOR: #000000; TEXT-INDENT: 20px; LINE-HEIGHT: 28px; TEXT-DECORATION: underline
+}
+#kind2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND-IMAGE: url("xjmw/78.gif")/*tpa=http://www.aaaforward.com/xjmw/78.gif*/; WIDTH: 234px; TEXT-INDENT: 35px; PADDING-TOP: 6px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 30px
+}
+#kind3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND-IMAGE: url("xjmw/54.gif")/*tpa=http://www.aaaforward.com/xjmw/54.gif*/; WIDTH: 154px; TEXT-INDENT: 35px; PADDING-TOP: 6px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 30px
+}
+.f12black {
+	COLOR: #000000; LINE-HEIGHT: 23px; TEXT-DECORATION: none
+}
+.f12gray {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+.news {
+	COLOR: #000000; TEXT-INDENT: 4px; TEXT-DECORATION: none
+}
+#table_line {
+	BACKGROUND-POSITION: 50% bottom; BORDER-LEFT-COLOR: #999999; BACKGROUND-IMAGE: url("xjmw/dot.jpg")/*tpa=http://www.aaaforward.com/xjmw/dot.jpg*/; BORDER-BOTTOM-COLOR: #999999; BORDER-TOP-STYLE: none; BORDER-TOP-COLOR: #999999; BACKGROUND-REPEAT: repeat-x; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 25px; TEXT-ALIGN: left; BORDER-RIGHT-COLOR: #999999; BORDER-BOTTOM-STYLE: none
+}
+.date {
+	FONT-SIZE: 12px; COLOR: #cccccc; FONT-FAMILY:  Arial,Verdana, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+#msn2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; TEXT-INDENT: 65px; PADDING-TOP: 5px; HEIGHT: 20px
+}
+#chl {
+	TEXT-INDENT: 65px; PADDING-TOP: 8px
+}
